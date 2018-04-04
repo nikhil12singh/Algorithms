@@ -38,7 +38,6 @@ public class FindPattern {
         int len = 0;
         int i = 1;
         lps[0] = 0;  
- 
        
         while (i < pat.length())
         {
