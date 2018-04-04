@@ -2,9 +2,8 @@
 
 public class FindPattern {
 
-	public static void findPattern(String txt, String pat)
-	{
-	
+   public static void findPattern(String txt, String pat)
+    {
     int lps[] = new int[pat.length()];
     int j = 0; 
 
